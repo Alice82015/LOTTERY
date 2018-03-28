@@ -10,6 +10,10 @@ namespace lottery
     {
         static void Main(string[] args)
         {
+            // 增加字體和背景色彩
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.DarkYellow;
+
             // 建立亂數物件
             Random rand = new Random();
 
@@ -28,7 +32,9 @@ namespace lottery
                 int r6 = rand.Next(0, 43);
 
                 //  產生亂數
-                Console.WriteLine("[{0:00}]  {1:00} {2:00} {3:00} {4:00} {5:00} {6:00} ", count, r1, r2, r3, r4, r5, r6);
+                Console.WriteLine(" ╔═══════════════════════════════════════╗  ");
+                Console.WriteLine(" ║  [{0:00}]  ★{1:00} ☆{2:00} ★{3:00} ☆{4:00} ★{5:00} ☆{6:00}  ║  ", count, r1, r2, r3, r4, r5, r6);
+                Console.WriteLine(" ╚═══════════════════════════════════════╝  ");
 
                 // 累加產生次數
                 count = count + 1;

@@ -4,3 +4,9 @@ C:\git\lottery\lottery\bin\Debug\lottery.pdb
 C:\git\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
 C:\git\lottery\lottery\obj\Debug\lottery.exe
 C:\git\lottery\lottery\obj\Debug\lottery.pdb
+D:\Sourcetree\git\Lottery\lottery\lottery\bin\Debug\lottery.exe.config
+D:\Sourcetree\git\Lottery\lottery\lottery\obj\Debug\lottery.exe
+D:\Sourcetree\git\Lottery\lottery\lottery\obj\Debug\lottery.pdb
+D:\Sourcetree\git\Lottery\lottery\lottery\bin\Debug\lottery.exe
+D:\Sourcetree\git\Lottery\lottery\lottery\bin\Debug\lottery.pdb
+D:\Sourcetree\git\Lottery\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
